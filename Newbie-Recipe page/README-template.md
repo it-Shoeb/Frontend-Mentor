@@ -31,7 +31,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ## Author
 
 - Frontend Mentor - [@it-Shoeb](https://www.frontendmentor.io/profile/it-Shoeb)
-- Twitter - [@shoebshaikh-its/](https://www.linkedin.com/in/shoebshaikh-its/)
+- Linkedin - [@shoebshaikh-its/](https://www.linkedin.com/in/shoebshaikh-its/)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
