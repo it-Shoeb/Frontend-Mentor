@@ -15,13 +15,12 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Screenshot
 
-![Mobile](./recipe-page-main%20-%20mobile.jpg)
-![Desktop](./recipe-page-main%20-%20desktop.jpg)
+![Mobile](./recipe-page-main%20-%20mobile.jpg) ![Desktop](./recipe-page-main%20-%20desktop.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/it-Shoeb/Frontend-Mentor/tree/main/Newbie-Recipe%20page)
-- Live Site URL: [Add live site URL here](https://recipe-page-main-frontend-mentor.netlify.app/)
+- Solution URL: [Github Repository ](https://github.com/it-Shoeb/Frontend-Mentor/tree/main/Newbie-Recipe%20page)
+- Live Site URL: [Live Demo](https://recipe-page-main-frontend-mentor.netlify.app/)
 
 ### Built with
 
