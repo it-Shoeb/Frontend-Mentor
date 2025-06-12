@@ -1,0 +1,131 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter&display=swap");
+
+:root {
+  --primary-color: hsl(75, 94%, 57%);
+  --secondary-color: hsl(0, 0%, 100%);
+  --Grey-700: hsl(0, 0%, 20%);
+  --Grey-800: hsl(0, 0%, 12%);
+  --Grey-900: hsl(0, 0%, 8%);
+}
+
+body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Inter", sans-serif;
+  background-color: var(--Grey-900);
+}
+
+p {
+  font-size: 14px;
+}
+
+a {
+  list-style-type: none;
+  text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+h6,
+h5,
+h6,
+p {
+  margin: 0;
+}
+
+/* default css */
+
+.container {
+  min-height: calc(100vh - 6px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card {
+  background-color: var(--Grey-800);
+  /* background: linear-gradient(180deg, var(--Grey-700), var(--Grey-800)); */
+  /* width: 50%; */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1rem;
+  border-radius: 1rem;
+  gap: 1rem;
+}
+
+.image-container {
+  width: 50%;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+.image-container img {
+  width: 100%;
+  object-fit: cover;
+}
+
+.info-bar {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 1rem;
+  color: var(--secondary-color);
+}
+
+.info-bar a {
+  color: var(--primary-color);
+}
+
+.info-bar a:hover, .info-bar a:focus {
+  color: var(--secondary-color);
+}
+
+.flex-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.flex-container a {
+  padding: 10px 12px;
+  background-color: var(--Grey-700);
+  border-radius: 10px;
+  color: var(--secondary-color);
+  text-align: center;
+}
+
+.flex-container a:hover, .flex-container a:focus {
+  background-color: var(--primary-color);
+  outline: none;
+  color: var(--Grey-900);
+}
+
+@media (max-width: 375px) {
+  .card {
+    width: 100%;
+    background-color: var(--Grey-900);
+  }
+}
+
+@media (max-width: 750px) {
+  .card {
+    width: 70%;
+  }
+}
+
+/* @media (max-width: 1500px) {
+  .card {
+    width: 50%;
+  }
+} */
+
+@media (min-width: 1440px) {
+  body {
+    background-color: cyan;
+  }
+}
