@@ -17,8 +17,8 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [Github Repository](https://your-solution-url.com)
-- Live Site URL: [Live](https://your-live-site-url.com)
+- Solution URL: [Github Repository](https://github.com/it-Shoeb/Frontend-Mentor/tree/main/Newbie-Social%20Link%20Profile)
+- Live Site URL: [Live](https://sociallinkprofile-fm.netlify.app/)
 
 ## Author
 
