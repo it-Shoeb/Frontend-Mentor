@@ -18,10 +18,10 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 ### Links
 
 - Solution URL: [Github Repository](https://your-solution-url.com)
-- Live Site URL: [Live Demo](https://your-live-site-url.com)
+- Live Site URL: [Live](https://your-live-site-url.com)
 
 ## Author
 
 - Frontend Mentor - [@it-Shoeb](https://www.frontendmentor.io/profile/it-Shoeb)
 - Linkedin - [@shoebshaikh-its/](https://www.linkedin.com/in/shoebshaikh-its/)
-- Github - [@shoebshaikh-its/](https://github.com/it-Shoeb/)
+- Github - [@it-Shoeb/](https://github.com/it-Shoeb/)
