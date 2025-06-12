@@ -16,8 +16,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/it-Shoeb/Frontend-Mentor/tree/main/Newbie-Recipe%20page)
-- Live Site URL: [Add live site URL here](https://recipe-page-main-frontend-mentor.netlify.app/)
+- Solution URL: [Github Repository](https://github.com/it-Shoeb/Frontend-Mentor/tree/main/Newbie-Recipe%20page)
+- Live Site URL: [Live](https://recipe-page-main-frontend-mentor.netlify.app/)
 
 ### Built with
 
@@ -29,4 +29,4 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 - Frontend Mentor - [@it-Shoeb](https://www.frontendmentor.io/profile/it-Shoeb)
 - Linkedin - [@shoebshaikh-its/](https://www.linkedin.com/in/shoebshaikh-its/)
-- Github - [@shoebshaikh-its/](https://github.com/it-Shoeb/)
+- Github - [@it-Shoeb/](https://github.com/it-Shoeb/)
