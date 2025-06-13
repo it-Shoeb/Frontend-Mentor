@@ -20,8 +20,8 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Github Repository](https://your-solution-url.com)
-- Live Site URL: [Live](https://your-live-site-url.com)
+- Solution URL: [Github Repository](https://github.com/it-Shoeb/Frontend-Mentor/tree/main/Newbie-Blog%20Preview%20Card%20Main)
+- Live Site URL: [Live](https://blogpreviewcardmain-fm.netlify.app/)
 
 ### Useful resources
 
